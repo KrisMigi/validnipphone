@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <name>kmaddressvalidation</name>
+    <displayName><![CDATA[KM Address Validation]]></displayName>
+    <version><![CDATA[1.11.8]]></version>
+    <description><![CDATA[Walidacja NIP (PL) i telefonu (9 cyfr) w Adresie, Rejestracji i Danych osobistych. Bez JS, natywnie przez builder + backend.]]></description>
+    <author><![CDATA[KM]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
